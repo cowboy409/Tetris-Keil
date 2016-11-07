@@ -12,4 +12,10 @@ The game rule is as you know and it only has 2 player versus mode.
 #3 Tetris Code
 https://github.com/cowboy409/Tetris-Keil/blob/master/blkrot.c
 
-#4 Tetris Video
+
+#4 Tetris Video ( Music was included during video encoding)
+https://www.youtube.com/watch?v=Xz1fGyK52Y0&feature=youtu.be
+
+
+#5 Tetris Report
+https://github.com/cowboy409/Tetris-Keil/blob/master/Microprocessor%20Project%20Report.pdf
