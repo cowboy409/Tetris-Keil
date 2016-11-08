@@ -22,4 +22,4 @@ Back :    https://github.com/cowboy409/Tetris-Keil/blob/master/20160617_161537.j
 Playing : https://github.com/cowboy409/Tetris-Keil/blob/master/20160607_161827.mp4_000003052.jpg
 
 #6 Tetris Report
-https://github.com/cowboy409/Tetris-Keil/blob/master/Microprocessor%20Project%20Report.pdf
+https://drive.google.com/open?id=0B8bc6hb1KPXaTW5oRGtYWDQ4TUk
