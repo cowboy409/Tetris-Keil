@@ -17,8 +17,8 @@ https://github.com/cowboy409/Tetris-Keil/blob/master/blkrot.c
 https://www.youtube.com/watch?v=Xz1fGyK52Y0&feature=youtu.be
 
 #5 Photo of product
-Front :   https://github.com/cowboy409/Tetris-Keil/blob/master/20160617_161546.jpg
-Back :    https://github.com/cowboy409/Tetris-Keil/blob/master/20160617_161537.jpg
+Front :   https://github.com/cowboy409/Tetris-Keil/blob/master/20160617_161546.jpg  
+Back :    https://github.com/cowboy409/Tetris-Keil/blob/master/20160617_161537.jpg  
 Playing : https://github.com/cowboy409/Tetris-Keil/blob/master/20160607_161827.mp4_000003052.jpg
 
 #6 Tetris Report
